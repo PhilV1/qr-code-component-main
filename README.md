@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component-main-one-henna.vercel.app/)
 
 ### Built with
 
@@ -30,5 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [PhilV1](https://www.your-site.com)
-- Frontend Mentor - [@PhilV1](https://www.frontendmentor.io/profile/PhilV1)
+- Website - <a href="https://werpub.com" target="_blank">PhilV1</a>
+- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/PhilV1" target="_blank">@PhilV1</a>
