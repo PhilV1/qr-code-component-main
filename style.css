@@ -26,8 +26,8 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 1rem;
-  width: 300px;
-  height: 499px;
+  max-width: 300px;
+  max-height: 500px;
   border-radius: 20px;
   background-color: var(--white);
 }
@@ -37,30 +37,31 @@ body {
   font-size: 22px;
   font-weight: 700;
   line-height: 140%;
-  width: 17ch;
+  max-width: 17ch;
   text-align: center;
 }
 .wrapper p {
   color: var(--slate-500);
   font-weight: 400;
-  font-size: 15px;
+  margin-top: 0px;
+  font-size: 0.9375rem; /* 15px */
   letter-spacing: 0.2px;
   line-height: 140%;
-  width: 26ch;
+  max-width: 26ch;
 }
 
 img {
   border-radius: 1rem;
-  width: 300px;
-  height: 499px;
+  max-width: 100%;
+  max-height: max-content;
 }
 
 footer {
-  margin-top: 20px;
+  margin-top: 1.25rem; /* 20px */
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 0.6875rem; /* 11px */
   text-align: center;
 }
 
